@@ -1,0 +1,26 @@
+{
+  "name": "deep-in-js",
+  "version": "0.0.1",
+  "description": "Yet another Dependency Injection container, using some of the es6+ goodies",
+  "main": "src/di-container.js",
+  "scripts": {
+    "format": "prettier .",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "es6",
+    "dependency",
+    "injection",
+    "ioc",
+    "dic",
+    "javascript"
+  ],
+  "author": "Ricardo Keigo",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.30.0",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2"
+  }
+}
